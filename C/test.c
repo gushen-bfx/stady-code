@@ -9,6 +9,11 @@ int main()
 		printf("%d\n",num1+num2);
 //	printf("%d\n",sum);
 	printf("%s\n",abc);
-	printf("hello word\n");	
+	printf("hello word\n");
+	int i = 0;
+	for(i=1;i<=100;i++)
+	{
+		printf("%d\n",i);
+	}
 	return 0;
 }
